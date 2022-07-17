@@ -1,0 +1,17 @@
+
+
+
+.carousel.carousel-item{
+    height:700px;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-items{
+    border: 1px solid black;
+}
+.table,th,tr,td{
+    border: 1px solid black;
+}
